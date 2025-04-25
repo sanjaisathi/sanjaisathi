@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a **full-stack developer** with a **Computer S
 #### Other:
 - **Operating Systems**: Linux, Windows
 - **IDEs**: VS Code, PyCharm
-- **Others**: REST APIs, JSON, Firebase
+- **Others**: REST APIs, JSON
 
 ### 🚀 Projects
 #### 🌾 Farmer Market App
